@@ -6,7 +6,7 @@ import {
 } from './modules/requests.js'
 import { fillData } from './modules/fillData.js'
 
-const URL = 'http://localhost:3000'
+const URL = 'https://lesson-02-01-server.onrender.com'
 
 const addButton = document.querySelector('.addItem')
 
